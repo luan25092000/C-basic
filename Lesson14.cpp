@@ -25,7 +25,7 @@ class Cat : public Animal {
 class Duck : public Animal {		
 	public:
 		void say() override {
-			cout << "Quack quack ...\n";
+			cout << "Quác quác ...\n";
 		}
 };
 
